@@ -1,23 +1,34 @@
-# Hi there! 👋 I'm Riho Sepp
+# Hi there, I'm Riho 👋
 
-🔧 **IT Support Specialist** transitioning into **Software Development**  
-📍 Currently in Lapland, Finland | Open to opportunities across Finland  
-🌐 [rihosepp.com](https://rihosepp.com) | [LinkedIn](your-linkedin-url)
+💻 I'm an aspiring web developer from Estonia, currently learning HTML, CSS, and JavaScript.  
+🎯 My goal is to become a developer in Finland and grow into a strong professional in the IT field.
 
-## 🛠️ Tech Stack
-- **Languages:** HTML, CSS, JavaScript (learning Python)
-- **Tools:** Git, Active Directory, Office 365
-- **OS:** Windows, macOS, Linux (basic), Android
-- **Currently Learning:** Python, React, Node.js
+---
 
-## 🚀 Current Projects
-- 🐍 100 Days of Python Challenge (Day X/100)
-- 🌐 Personal Portfolio Website
-- 🛠️ IT Automation Scripts
+## 🚀 What I'm working on right now
+- 🔭 Building small web projects to sharpen my skills
+- 🌱 Deepening my knowledge of JavaScript and working with REST APIs
+- ⚙️ Experimenting with React to get into modern frontend frameworks
+
+---
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rihosepp&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RihoSepp31&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
 
-## 📫 Let's Connect!
-- 💼 Open for: Junior Developer / IT Support roles
-- 🗣️ Languages: Estonian 🇪🇪 | English 🇬🇧 | Finnish 🇫🇮 (learning)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RihoSepp31&layout=compact&theme=radical" alt="Top languages" />
+</p>
+
+---
+
+## 📫 Get in touch
+- GitHub: [RihoSepp31](https://github.com/RihoSepp31)
+- LinkedIn:(www.linkedin.com/in/rihosepp) <!-- Replace with your real LinkedIn URL -->
+- Email: [riho.sepp@outlook.com](riho.sepp@outlook.com) <!-- Replace with your actual email -->
+
+---
+
+✨ **Thanks for checking out my profile!**  
+If you have interesting projects or collaboration ideas, feel free to reach out.
